@@ -1,4 +1,5 @@
-# week 1 
+# week 1 intro to sensors
+
 
 Lecture 1 
 

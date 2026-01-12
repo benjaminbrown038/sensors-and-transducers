@@ -1,4 +1,4 @@
-# week 6 
+# week 6 actuators and smart sensors
 
 
 lecture 13

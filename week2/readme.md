@@ -1,4 +1,4 @@
-# week 2 
+# week 2 algorithms
 
 lecture 5 
 
